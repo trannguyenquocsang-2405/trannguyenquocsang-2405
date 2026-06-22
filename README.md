@@ -84,5 +84,6 @@ Mobile application for real estate certification exam preparation.
 
 * Email: [trannguyenquocsang@gmail.com](mailto:trannguyenquocsang@gmail.com)
 * GitHub: https://github.com/trannguyenquocsang-2405
+* LinkedIn: linkedin.com/in/sang-trần-nguyễn-quốc-2037bb418
 
 > "Keep learning, keep building, keep improving."
